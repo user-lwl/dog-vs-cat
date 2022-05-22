@@ -6,3 +6,4 @@ python
 
 # 使用说明
 使用kaggle提供的GPU进行训练
+数据集可自行添加到input中
